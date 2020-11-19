@@ -4,13 +4,13 @@
         "id": "noticia1",
         "cast": "Euskaraldia 2020",
         "eus": "",
-        "img": ""
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/euskaraldia.jpeg"
     },
     {
         "id": "noticia2",
         "cast": "Suspensión actividades de igualdad noviembre",
         "eus": "Berdintasun-jarduerak azaroan bertan behera",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Houdini_challenge.jpg/1200px-Houdini_challenge.jpg"
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/suspensionactividadesnoviembre.png"
     },
     {
         "id": "noticia3",
