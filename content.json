@@ -2,26 +2,26 @@
     "content": [
     {
         "id": "noticia1",
-        "cast": "Box 1",
-        "eus": "This is Box 1",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Houdini_challenge.jpg/1200px-Houdini_challenge.jpg"
-    },
-    {
-        "id": "noticia2",
-        "cast": "Box 2",
-        "eus":"This is Box 2",
+        "cast": "Euskaraldia 2020",
+        "eus": "",
         "img": ""
     },
     {
+        "id": "noticia2",
+        "cast": "Suspensión actividades de igualdad noviembre",
+        "eus": "Berdintasun-jarduerak azaroan bertan behera",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Houdini_challenge.jpg/1200px-Houdini_challenge.jpg"
+    },
+    {
         "id": "noticia3",
-        "cast": "Box 3",
-        "eus": "This is Box 3",
+        "cast": "Aplazamiento cine mujer hasta primavera 2021",
+        "eus":"Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
         "img": ""
     },
     {
         "id": "noticia4",
-        "cast": "Box 4",
-        "eus": "This is Box 4",
+        "cast": "Box 3",
+        "eus": "This is Box 3",
         "img": ""
     },
     {
