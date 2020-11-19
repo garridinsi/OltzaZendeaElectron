@@ -1,0 +1,57 @@
+{
+    "content": [
+    {
+        "id": "noticia1",
+        "cast": "Box 1",
+        "eus": "This is Box 1",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Houdini_challenge.jpg/1200px-Houdini_challenge.jpg"
+    },
+    {
+        "id": "noticia2",
+        "cast": "Box 2",
+        "eus":"This is Box 2",
+        "img": ""
+    },
+    {
+        "id": "noticia3",
+        "cast": "Box 3",
+        "eus": "This is Box 3",
+        "img": ""
+    },
+    {
+        "id": "noticia4",
+        "cast": "Box 4",
+        "eus": "This is Box 4",
+        "img": ""
+    },
+    {
+        "id": "noticia5",
+        "cast": "Box 4",
+        "eus": "This is Box 4",
+        "img": ""
+    },
+    {
+        "id": "noticia6",
+        "cast": "Box 4",
+        "eus": "This is Box 4",
+        "img": ""
+    },
+    {
+        "id": "noticia7",
+        "cast": "Box 4",
+        "eus": "This is Box 4",
+        "img": ""
+    },
+    {
+        "id": "noticia8",
+        "cast": "Box 4",
+        "eus": "This is Box 4",
+        "img": ""
+    },
+    {
+        "id": "noticia9",
+        "cast": "Box 4",
+        "eus": "This is Box 4",
+        "img": ""
+    }
+]}
