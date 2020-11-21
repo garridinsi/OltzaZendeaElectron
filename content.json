@@ -1,28 +1,28 @@
 {
     "content": [
-    {
+        {
         "id": "noticia1",
+        "cast": "Las poderosas tenemos un sueño",
+        "eus": "Amets bat daukagu",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/tenemosunsueno.jpg"
+    },
+    {
+        "id": "noticia2",
         "cast": "Euskaraldia 2020",
         "eus": "",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/euskaraldia.jpeg"
     },
     {
-        "id": "noticia2",
+        "id": "noticia3",
         "cast": "Suspensión actividades de igualdad noviembre",
         "eus": "Berdintasun-jarduerak azaroan bertan behera",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/suspensionactividadesnoviembre.png"
     },
     {
-        "id": "noticia3",
+        "id": "noticia4",
         "cast": "Aplazamiento cine mujer hasta primavera 2021",
         "eus": "Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinemujer2021.jpg"
-    },
-    {
-        "id": "noticia4",
-        "cast": "",
-        "eus": "",
-        "img": ""
     },
     {
         "id": "noticia5",
