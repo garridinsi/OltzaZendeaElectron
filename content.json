@@ -20,9 +20,9 @@
     },
     {
         "id": "noticia4",
-        "cast": "",
-        "eus": "",
-        "img": ""
+        "cast": "Dia internacional del Euskera: Mago Itzal",
+        "eus": "Euskararen Nazioarteko eguna: Itzal Magoa",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/eusitzal.png"
     },
     {
         "id": "noticia5",
