@@ -1,28 +1,28 @@
 {
     "content": [
-        {
+    {
         "id": "noticia1",
-        "cast": "Cierre Oficinas municipales",
-        "eus": "Udal bulegoen itxiera",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cierreoficinas.jpg"
+        "cast": "Concurso de Carteles: Olentzero eta Mari Domingi 2020",
+        "eus": "Kartel Lehiaketa: Olentzero eta Mari Domingi 2020",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cartelesnav.jpg"
     },
     {
         "id": "noticia2",
-        "cast": "Taller Empoderamiento Digital",
-        "eus": "Ahalduntze digitala tailerra",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/brechadigital.jpg"
-    },
-    {
-        "id": "noticia3",
         "cast": "Aplazamiento cine mujer hasta primavera 2021",
         "eus": "Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinemujer2021.jpg"
     },
     {
+        "id": "noticia3",
+        "cast": "",
+        "eus": "",
+        "img": ""
+    },
+    {
         "id": "noticia4",
-        "cast": "Dia internacional del Euskera: Mago Itzal",
-        "eus": "Euskararen Nazioarteko eguna: Itzal Magoa",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/eusitzal.png"
+        "cast": "",
+        "eus": "",
+        "img": ""
     },
     {
         "id": "noticia5",
