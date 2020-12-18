@@ -2,21 +2,21 @@
     "content": [
     {
         "id": "noticia1",
+        "cast": "Taller de Teatro: Olentzero 2020",
+        "eus": "Antzerki tailerra: Olentzero 2020",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/teatroolentzero.jpg"
+    },
+    {
+        "id": "noticia2",
         "cast": "Concurso de Carteles: Olentzero eta Mari Domingi 2020",
         "eus": "Kartel Lehiaketa: Olentzero eta Mari Domingi 2020",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cartelesnav.jpg"
     },
     {
-        "id": "noticia2",
+        "id": "noticia3",
         "cast": "Aplazamiento cine mujer hasta primavera 2021",
         "eus": "Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinemujer2021.jpg"
-    },
-    {
-        "id": "noticia3",
-        "cast": "",
-        "eus": "",
-        "img": ""
     },
     {
         "id": "noticia4",
