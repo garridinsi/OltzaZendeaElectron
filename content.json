@@ -2,16 +2,17 @@
     "content": [
     {
         "id": "noticia1",
+        "cast": "Coros de santa agueda",
+        "eus": "Agata deunaren abesbatzak",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/corossantaageda.jpg"
+    },
+    {
+        "id": "noticia2",
         "cast": "8 de Marzo",
         "eus": "Martxoak 8",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/8memail.png"
     },
-    {
-        "id": "noticia2",
-        "cast": "Agenda actividades enero Oltzaleku",
-        "eus": "Urtarrileko jardueren agenda Oltzaleku",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/enerooltzaleku.jpg"
-    },
+    
     {
         "id": "noticia3",
         "cast": "Aplazamiento cine mujer hasta primavera 2021",
