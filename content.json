@@ -8,22 +8,22 @@
     },
     {
         "id": "noticia2",
+        "cast": "IX Ciclo de cine y mujeres: Izu",
+        "eus": "IX Zinema eta emakumeak zikloa: Izu",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/ciclocine.png"
+    },
+    {
+        "id": "noticia3",
         "cast": "8 de Marzo",
         "eus": "Martxoak 8",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/8memail.png"
     },
     
     {
-        "id": "noticia3",
+        "id": "noticia4",
         "cast": "Aplazamiento cine mujer hasta primavera 2021",
         "eus": "Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinemujer2021.jpg"
-    },
-    {
-        "id": "noticia4",
-        "cast": "",
-        "eus": "",
-        "img": ""
     },
     {
         "id": "noticia5",
