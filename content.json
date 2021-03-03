@@ -2,21 +2,21 @@
     "content": [
     {
         "id": "noticia1",
-        "cast": "Taller de Teatro",
-        "eus": "Antzerki tailerra",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/tallerteatro.jpg"
+        "cast": "Inauguración Popular Paseo Arga tramo Arazuri-Ibero",
+        "eus": "Arga pasealekuaren herri inaugurazioa Arazuri-Ibero tartean",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/inauguracionmcp.jpg"
     },
     {
         "id": "noticia2",
-        "cast": "Aplazamiento cine mujer hasta primavera 2021",
-        "eus": "Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinemujer2021.jpg"
+        "cast": "Talleres de construcción cajas nido y anillamiento científico de aves",
+        "eus": "Habia-kaxak eraikitzeko eta hegaztien eraztunketa zientifikoa egiteko tailerrak",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/construccionaves.jpg"
     },
     {
         "id": "noticia3",
-        "cast": "",
-        "eus": "",
-        "img": ""
+        "cast": "Aplazamiento cine mujer hasta primavera 2021",
+        "eus": "Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinemujer2021.jpg"
     },
     {
         "id": "noticia4",
