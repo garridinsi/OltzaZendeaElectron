@@ -2,15 +2,15 @@
     "content": [
     {
         "id": "noticia1",
-        "cast": "Inauguración Popular Paseo Arga tramo Arazuri-Ibero",
-        "eus": "Arga pasealekuaren herri inaugurazioa Arazuri-Ibero tartean",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/inauguracionmcparga.jpg"
+        "cast": "Día internacional del Libro",
+        "eus": "Liburuaren nazioarteko eguna",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/dialibro.png"
     },
     {
         "id": "noticia2",
-        "cast": "Talleres de construcción cajas nido y anillamiento científico de aves",
-        "eus": "Habia-kaxak eraikitzeko eta hegaztien eraztunketa zientifikoa egiteko tailerrak",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/construccionaves.jpg"
+        "cast": "Curso premonitores en Berriozar",
+        "eus": "Aisialdiko aurre-begiralea izateko ikastaroa Berriozarren",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cursopreberriozar.png"
     },
     {
         "id": "noticia3",
