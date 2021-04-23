@@ -8,33 +8,33 @@
     },
     {
         "id": "noticia2",
+        "cast": "Prueba BTT Galtzagorri 2021",
+        "eus": "2021eko BTT Galtzagorri kirol proba",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/pruebabtt1.jpg"
+    },
+    {
+        "id": "noticia3",
+        "cast": "Prueba BTT Galtzagorri 2021",
+        "eus": "2021eko BTT Galtzagorri kirol proba",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/pruebabtt2.jpg"
+    },
+    {
+        "id": "noticia4",
         "cast": "Día internacional del Libro",
         "eus": "Liburuaren nazioarteko eguna",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/dialibro.png"
     },
     {
-        "id": "noticia3",
+        "id": "noticia5",
         "cast": "Curso premonitores en Berriozar",
         "eus": "Aisialdiko aurre-begiralea izateko ikastaroa Berriozarren",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cursopreberriozar.png"
     },
     {
-        "id": "noticia4",
+        "id": "noticia6",
         "cast": "Aplazamiento cine mujer hasta primavera 2021",
         "eus": "Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinemujer2021.jpg"
-    },
-    {
-        "id": "noticia5",
-        "cast": "",
-        "eus": "",
-        "img": ""
-    },
-    {
-        "id": "noticia6",
-        "cast": "",
-        "eus": "",
-        "img": ""
     },
     {
         "id": "noticia7",
