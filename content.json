@@ -2,27 +2,27 @@
     "content": [
     {
         "id": "noticia1",
+        "cast": "Campamentos de Verano",
+        "eus": "Udako kanpaldiak",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/campamentosveranoayto.jpg"
+    },
+    {
+        "id": "noticia2",
         "cast": "Día internacional del Libro",
         "eus": "Liburuaren nazioarteko eguna",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/dialibro.png"
     },
     {
-        "id": "noticia2",
+        "id": "noticia3",
         "cast": "Curso premonitores en Berriozar",
         "eus": "Aisialdiko aurre-begiralea izateko ikastaroa Berriozarren",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cursopreberriozar.png"
     },
     {
-        "id": "noticia3",
+        "id": "noticia4",
         "cast": "Aplazamiento cine mujer hasta primavera 2021",
         "eus": "Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinemujer2021.jpg"
-    },
-    {
-        "id": "noticia4",
-        "cast": "",
-        "eus": "",
-        "img": ""
     },
     {
         "id": "noticia5",
