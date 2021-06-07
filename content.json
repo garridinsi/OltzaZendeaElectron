@@ -2,39 +2,39 @@
     "content": [
     {
         "id": "noticia1",
+        "cast": "Matricula cursos aprendizaje euskera Zubiarte 2021/2022 ",
+        "eus": "Euskara ikasteko Zubiarte 2021/2022 ikastaroen matrikula",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/zubiarte.jpg"
+    },
+    {
+        "id": "noticia2",
         "cast": "Campamentos de Verano",
         "eus": "Udako kanpaldiak",
         "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/campamentosveranoayto.jpg"
     },
     {
-        "id": "noticia2",
-        "cast": "Prueba BTT Galtzagorri 2021",
-        "eus": "2021eko BTT Galtzagorri kirol proba",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/pruebabtt1.jpg"
-    },
-    {
         "id": "noticia3",
-        "cast": "Prueba BTT Galtzagorri 2021",
-        "eus": "2021eko BTT Galtzagorri kirol proba",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/pruebabtt2.jpg"
+        "cast": "",
+        "eus": "",
+        "img": ""
     },
     {
         "id": "noticia4",
-        "cast": "Día internacional del Libro",
-        "eus": "Liburuaren nazioarteko eguna",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/dialibro.png"
+        "cast": "",
+        "eus": "",
+        "img": ""
     },
     {
         "id": "noticia5",
-        "cast": "Curso premonitores en Berriozar",
-        "eus": "Aisialdiko aurre-begiralea izateko ikastaroa Berriozarren",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cursopreberriozar.png"
+        "cast": "",
+        "eus": "",
+        "img": ""
     },
     {
         "id": "noticia6",
-        "cast": "Aplazamiento cine mujer hasta primavera 2021",
-        "eus": "Emakume Zinema zikloa 2021eko udaberrira arte atzeratzea",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinemujer2021.jpg"
+        "cast": "",
+        "eus": "",
+        "img": ""
     },
     {
         "id": "noticia7",
