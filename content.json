@@ -2,15 +2,15 @@
     "content": [
     {
         "id": "noticia1",
-        "cast": "Matricula cursos aprendizaje euskera Zubiarte 2021/2022",
-        "eus": "Euskara ikasteko Zubiarte 2021/2022 ikastaroen matrikula",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/zubiarte.jpg"
+        "cast": "Prueba BTT Ororbia",
+        "eus": "Ororbiako BTT lasterka",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/bttescuelas.jpg"
     },
     {
         "id": "noticia2",
-        "cast": "Campamentos de Verano",
-        "eus": "Udako kanpaldiak",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/campamentosveranoayto.jpg"
+        "cast": "Prueba BTT Ororbia",
+        "eus": "Ororbiako BTT lasterka",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/bttcadetes.jpg"
     },
     {
         "id": "noticia3",
