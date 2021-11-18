@@ -2,21 +2,21 @@
     "content": [
     {
         "id": "noticia1",
-        "cast": "Prueba BTT Ororbia",
-        "eus": "Ororbiako BTT lasterka",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/bttescuelas.jpg"
+        "cast": "Festival de pelota a mano por la Igualdad",
+        "eus": "Berdintasunaren aldeko esku piltoa jaialdia",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/pelotamanoporigualdad.png"
     },
     {
         "id": "noticia2",
-        "cast": "Prueba BTT Ororbia",
-        "eus": "Ororbiako BTT lasterka",
-        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/bttcadetes.jpg"
+        "cast": "Ciclo de cine y mujeres",
+        "eus": "Zinema eta emakumeak zikloa",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinenoviembre1.png"
     },
     {
         "id": "noticia3",
-        "cast": "",
-        "eus": "",
-        "img": ""
+        "cast": "Ciclo de cine y mujeres",
+        "eus": "Zinema eta emakumeak zikloa",
+        "img": "https://raw.githubusercontent.com/garridinsi/OltzaZendeaElectronPublic/main/images/cinenoviembre2.png"
     },
     {
         "id": "noticia4",
